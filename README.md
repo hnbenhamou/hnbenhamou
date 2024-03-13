@@ -10,38 +10,28 @@ ________________________________________________________________________________
 <h1 align="center">About 👨🏽‍🎓 :</h1>
 <h5>I am a 4th year student specializing in software and data engineering, passionate about leveraging technology to solve complex problems and optimize processes. With a strong foundation in programming and data analysis, I aim to contribute innovative solutions to the ever-evolving field of technology.</h3>
 
-```java
+```python
 
-public class HnBenhamou {
+class hnbenhamou:
 
-    // Properties
-    private String fullName;
-    private String username;
-    private String role;
-    private String linkedin;
-    private String twitter;
-    private String[] stack;
+    def __init__(self):
+        # who am I ?
+        self.full_name = 'Benhamou Hassan'
+        self.username = 'hnbenhamou'
+        self.role = 'Data Engineering Student'
 
-    // Constructor
-    public HnBenhamou() {
-        // who am I ?
-        this.fullName = "Benhamou Hassan";
-        this.username = "hnbenhamou";
-        this.role = "Data Engineering Student";
+        # find me
+        self.linkedin = 'linkedin.com/in/hnbenhamou/'
+        self.twitter = '@hnbenhamou'
 
-        // find me
-        this.linkedin = "linkedin.com/in/hnbenhamou/";
-        this.twitter = "@hnbenhamou";
+        self.stack = ['Data Engineering', 'Data Analysis', 'business intelligence', 'Web dev']
 
-        this.stack = new String[]{"Data Engineering", "Data Analysis", "business intelligence", "Web dev"};
-    }
+    def __str__(self):
+        return self.full_name
 
 
-public static void main(String[] args) {
-        HnBenhamou me = new HnBenhamou();
-        System.out.println(me.getFullName());
-    }
-}
+if __name__ == '__main__':
+    me = hnbenhamou()
 
 ```
 
