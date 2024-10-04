@@ -9,7 +9,7 @@
 _________________________________________________________________________________________________________________________________________________________________________
 
 <h1 align="center">About 👨🏽‍🎓 :</h1>
-<h5>I am a 5th year student specializing in software and data engineering, passionate about leveraging technology to solve complex problems and optimize processes. With a strong foundation in programming and data analysis, scientist, engineering , I aim to contribute innovative solutions to the ever-evolving field of technology.</h3>
+<h5>I am a 5th year student specializing in software and data engineering, passionate about leveraging technology to solve complex problems and optimize processes. With a strong foundation in programming and data analysis, scientist, and engineering , I aim to contribute innovative solutions to the ever-evolving field of technology.</h3>
 
 ```python
 
