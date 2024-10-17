@@ -25,7 +25,7 @@ class hnbenhamou:
         self.linkedin = 'linkedin.com/in/hnbenhamou/'
         self.twitter = '@hnbenhamou'
 
-        self.stack = ['Data Engineering', 'Data Analysis', 'business intelligence', 'Web dev']
+        self.stack = ['Data Engineering', 'Data Scientist', 'Data Analysis', 'Web dev']
 
     def __str__(self):
         return self.full_name
